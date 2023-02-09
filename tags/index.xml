@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sheet Music</title>
+    <link>https://miinasan.github.io/malena/tags/</link>
+    <description>Recent content in Tags on Sheet Music</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Feb 2023 23:05:01 +0000</lastBuildDate><atom:link href="https://miinasan.github.io/malena/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sheet Music</title>
+      <link>https://miinasan.github.io/malena/tags/sheet-music/</link>
+      <pubDate>Wed, 08 Feb 2023 23:05:01 +0000</pubDate>
+      
+      <guid>https://miinasan.github.io/malena/tags/sheet-music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncategorized</title>
+      <link>https://miinasan.github.io/malena/tags/uncategorized/</link>
+      <pubDate>Sun, 05 Feb 2023 14:43:05 +0000</pubDate>
+      
+      <guid>https://miinasan.github.io/malena/tags/uncategorized/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
